@@ -1,0 +1,230 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "GenericScaling (Debug)",
+			"request": "launch",
+			"preLaunchTask": "GenericScaling Win64 Debug Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "GenericScaling (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "GenericScaling Win64 DebugGame Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "GenericScaling (Development)",
+			"request": "launch",
+			"preLaunchTask": "GenericScaling Win64 Development Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "GenericScaling (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "GenericScaling Win64 Shipping Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "GenericScaling (Test)",
+			"request": "launch",
+			"preLaunchTask": "GenericScaling Win64 Test Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "GenericScalingEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "GenericScalingEditor Win64 Debug Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"GenericScaling"
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "GenericScalingEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "GenericScalingEditor Win64 DebugGame Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"GenericScaling"
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "GenericScalingEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "GenericScalingEditor Win64 Development Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"GenericScaling"
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE4Editor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "UE4Editor Win64 Debug Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE4Editor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "UE4Editor Win64 DebugGame Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE4Editor (Development)",
+			"request": "launch",
+			"preLaunchTask": "UE4Editor Win64 Development Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE4Game (Debug)",
+			"request": "launch",
+			"preLaunchTask": "UE4Game Win64 Debug Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE4Game (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "UE4Game Win64 DebugGame Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE4Game (Development)",
+			"request": "launch",
+			"preLaunchTask": "UE4Game Win64 Development Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE4Game (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "UE4Game Win64 Shipping Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE4Game (Test)",
+			"request": "launch",
+			"preLaunchTask": "UE4Game Win64 Test Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"preLaunchTask": "UnrealBuildTool Win64 Development Build",
+			"program": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "D:\\Program Files\\Epic Games\\UE_4.27"
+		}
+	]
+}

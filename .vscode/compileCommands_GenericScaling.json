@@ -1,0 +1,27 @@
+[
+	{
+		"file": "D:\\\\Program Files\\\\Epic Games\\\\UE_4.27\\\\Projects\\\\GenericScaling\\\\Source\\\\GenericScaling\\\\GenericScaling.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\.vscode\\compileCommands_GenericScaling\\GenericScaling.233.rsp\"",
+		"directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Program Files\\\\Epic Games\\\\UE_4.27\\\\Projects\\\\GenericScaling\\\\Source\\\\GenericScaling\\\\GenericScaling.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\.vscode\\compileCommands_GenericScaling\\GenericScaling.233.rsp\"",
+		"directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Program Files\\\\Epic Games\\\\UE_4.27\\\\Projects\\\\GenericScaling\\\\Source\\\\GenericScaling\\\\GenericScaling.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\.vscode\\compileCommands_GenericScaling\\GenericScaling.233.rsp\"",
+		"directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Program Files\\\\Epic Games\\\\UE_4.27\\\\Projects\\\\GenericScaling\\\\Source\\\\GenericScaling\\\\TestActor.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\.vscode\\compileCommands_GenericScaling\\GenericScaling.233.rsp\"",
+		"directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Program Files\\\\Epic Games\\\\UE_4.27\\\\Projects\\\\GenericScaling\\\\Source\\\\GenericScaling\\\\TestActor.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\.vscode\\compileCommands_GenericScaling\\GenericScaling.233.rsp\"",
+		"directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]

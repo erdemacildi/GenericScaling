@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "GenericScalingEditor Editor Win64 Development (GenericScaling)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\.vscode\\compileCommands_GenericScaling.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "UE4Editor Editor Win64 Development (UE4)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\.vscode\\compileCommands_UE4.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\Program Files\\Epic Games\\UE_4.27\\Projects\\GenericScaling\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
